@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Imported asset caches
+*.import
+
+# Godot-specific specific temp/export files
+export_locks/
+*.log
+
+# Build outputs (APK files and signatures should not be tracked in git)
+*.apk
+*.apk.idsig
+*.aab
+
+# OS specific files
+.DS_Store
+Thumbs.db
