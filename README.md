@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pizza-logo.jpg" width="220" alt="Mr. Pizza Logo">
+</p>
+
 # Mr. Pizza 🍕
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.x-blue?logo=godotengine&logoColor=white)](https://godotengine.org/)
@@ -31,6 +35,7 @@ first-android-game-mr-pizza/
 ├── assets/              # Game resources (sprites, audio, fonts, scenes)
 ├── export_presets.cfg   # Export profiles and settings for Android packaging
 ├── project.godot        # Main configuration file for the Godot project
+├── pizza-logo.jpg       # Game logo image displayed in the README
 └── LICENSE              # MIT open-source license
 
 *(Note: Binary files like the `.apk` are managed under GitHub Releases to keep the repository lightweight.)*
